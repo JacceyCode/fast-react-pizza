@@ -1,6 +1,6 @@
 /* eslint-disable react-refresh/only-export-components */
 /* eslint-disable no-unused-vars */
-// Test ID: IIDSAT
+// Test ID:
 
 import { useLoaderData } from "react-router-dom";
 import { getOrder } from "../../services/apiRestaurant";
